@@ -1,0 +1,108 @@
+/*This is the css of the whole document*/
+
+#body {
+	background-color: #729DA6;
+	font-family: 'Syne Tactile', cursive;
+	margin-top: 50px;
+	margin-left: 50px;
+
+}
+
+.buttonA {
+	display: inline-block;
+	background-color: #887373;
+	color: #EB1010;
+	padding: 10px;
+	cursor: pointer;
+	transition-duration: .5s;
+
+}
+
+.buttonB {
+	display: inline-block;
+	background-color: #DA2A;
+	color: white;
+	padding: 12px;
+	cursor: pointer;
+	transition-duration: 10s;
+}
+
+
+.buttonC {
+	display: inline-block;
+	padding: 10px;
+	background-color: #729DA6;
+	color: black;
+	border: 3px solid #1A0701;
+	transition-duration: .10s;
+	cursor: pointer;
+}
+
+table, th, td {
+	border: solid 3px #400E0E;
+	background-color: #A6DB8E;
+}
+
+.ulist{
+	list-style-type: square;
+	list-style-position: inside;
+}
+
+.first-div {
+	background-color: yellow;
+	margin-top: 3px;
+	margin-bottom: 3px;
+}
+
+#first-id {
+	background-color: orange;
+	margin-top: 3px;
+	margin-bottom: 3px;
+}
+
+.second-div {
+	background-color: red;
+	margin-top: 3px;
+	margin-bottom: 3px;
+}
+
+.figcaption {
+	color: #0012FF;
+}
+
+nav {
+	color: black;
+	margin-left: 50px;
+	margin-right: 50px;
+	padding: 15px;
+	background-color: #FF4200;
+}
+
+.alt-div {
+	background-color: #EC9046;
+}
+
+.toxic1 {
+	background-color: #5B5BE4;
+	border: dashed 3px white;
+}
+
+.toxic2 {
+	color: black;
+}
+
+.toxic3 {
+	color: red;	
+}
+
+#textarea {
+	background-color: #CFC1C1;
+	border: 1px green solid;
+}
+
+.input {
+	background-color: green;
+	border: black solid .5px;
+}
+
+
